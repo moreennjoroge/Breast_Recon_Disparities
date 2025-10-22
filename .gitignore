@@ -1,0 +1,51 @@
+# Sensitive Data - DO NOT COMMIT
+data/raw/
+data/identifiable/
+*.xlsx
+*.xls
+*_identifiable.*
+*_raw.*
+
+# Personal information
+contact_info.md
+participant_roster.*
+
+# Temporary files
+*.tmp
+*.bak
+*~
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output files
+*.pdf
+*.docx
+*.doc
+manuscript/*.pdf
+manuscript/*.docx
+
+# R/Python analysis (if applicable)
+.Rproj.user
+.Rhistory
+.RData
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# LaTeX temporary files (if using LaTeX)
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+
+# Keep README files
+!README.md
+!*/README.md
