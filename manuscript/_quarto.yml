@@ -1,0 +1,35 @@
+project:
+  type: default
+  output-dir: _output
+
+format:
+  docx:
+    toc: false
+    number-sections: false
+    highlight-style: github
+    reference-doc: custom-reference.docx
+  pdf:
+    documentclass: article
+    papersize: letter
+    geometry:
+      - margin=1in
+    fontsize: 12pt
+    linestretch: 2
+    number-sections: false
+    toc: false
+    keep-tex: true
+  html:
+    toc: true
+    toc-depth: 2
+    theme: cosmo
+    css: styles.css
+    number-sections: false
+
+bibliography: ../references/references.bib
+csl: ama.csl
+link-citations: true
+
+execute:
+  echo: false
+  warning: false
+  message: false
