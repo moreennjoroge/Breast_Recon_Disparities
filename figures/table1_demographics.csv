@@ -1,0 +1,28 @@
+,,Overall
+n,,11
+"Age at Interview, years, Median (IQR), median [Q1,Q3]",,"47.0 [42.5,50.5]"
+"BMI, Median (IQR), median [Q1,Q3]",,"29.6 [29.6,29.6]"
+"Religion, n(%), n (%)",Christian,10 (90.9)
+"Religion, n(%), n (%)",Non-denominational,1 (9.1)
+"Race, n(%), n (%)",Black,11 (100.0)
+"Ethnicity, n(%), n (%)",Not Hispanic,11 (100.0)
+"Education, n(%), n (%)",Associate's Degree,1 (9.1)
+"Education, n(%), n (%)",Bachelor's Degree,1 (9.1)
+"Education, n(%), n (%)",High School Diploma,8 (72.7)
+"Education, n(%), n (%)",Professional Degree (Medical Doctor),1 (9.1)
+"Employed, n(%), n (%)",No,1 (9.1)
+"Employed, n(%), n (%)",Retired,1 (9.1)
+"Employed, n(%), n (%)",Yes,9 (81.8)
+"BMI Category, n(%), n (%)",Healthy,1 (9.1)
+"BMI Category, n(%), n (%)",Obesity Class I,4 (36.4)
+"BMI Category, n(%), n (%)",Obesity Class II,1 (9.1)
+"BMI Category, n(%), n (%)",Overweight,5 (45.5)
+"Breast Cancer Stage, n(%), n (%)",Stage 0,3 (27.3)
+"Breast Cancer Stage, n(%), n (%)",Stage I,3 (27.3)
+"Breast Cancer Stage, n(%), n (%)",Stage II,2 (18.2)
+"Breast Cancer Stage, n(%), n (%)",Stage III,2 (18.2)
+"Breast Cancer Stage, n(%), n (%)",Stage IV,1 (9.1)
+"Mastectomy Side, n(%), n (%)",Left,8 (72.7)
+"Mastectomy Side, n(%), n (%)",Right,3 (27.3)
+"Underwent Breast Reconstruction, n(%), n (%)",No,5 (45.5)
+"Underwent Breast Reconstruction, n(%), n (%)",Yes,6 (54.5)

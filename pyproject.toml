@@ -8,5 +8,8 @@ dependencies = [
     "jupyter>=1.1.1",
     "nbclient>=0.10.2",
     "nbformat>=5.10.4",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.3",
     "python-docx>=1.2.0",
+    "tableone>=0.9.5",
 ]

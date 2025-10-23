@@ -1,5 +1,104 @@
 # Manuscript Changelog
 
+## 2025-10-23 - Table 1 Corrections and Abstract Terminology Update
+
+### Overview
+Completed Table 1 corrections per supervisor feedback (collapsed cancer staging categories, verified capitalization) and updated Abstract terminology for consistency with Results section. Generated professional Table 1 using tableone Python package.
+
+### Table 1 Changes
+
+**Cancer Staging Categories Collapsed:**
+- **Before:** Detailed Grade + Stage combinations (e.g., "Grade 2, Stage IIB", "Grade 3, Stage IIIA")
+- **After:** Simplified Stage 0-IV classification
+  - Stage 0: 3 (27.3%)
+  - Stage I: 3 (27.3%)
+  - Stage II: 2 (18.2%)
+  - Stage III: 2 (18.2%)
+  - Stage IV: 1 (9.1%)
+- **Rationale:** Supervisor feedback note "Consider Categories" on scanned Table 1. Simplified staging is more appropriate for small sample size (n=11) and improves readability.
+
+**Capitalization Verified:**
+- ✓ "Black" properly capitalized (follows AMA style guide)
+- ✓ All racial/ethnic descriptors consistent
+
+**Technical Implementation:**
+- Created reproducible Python script: `figures/create_table1.py`
+- Package: tableone v0.9.5 (purpose-built for medical research Table 1)
+- Generated formats: HTML, Excel, LaTeX, CSV
+- Location: `figures/table1_demographics.*`
+
+---
+
+### Abstract Terminology Update (Line 122)
+
+**Change:** "Financial barriers" → "Financial toxicity"
+
+**Before:**
+> Our analysis revealed three key themes influencing breast reconstruction decisions: 1) Patient-provider communication... 2) **Financial barriers**, including concerns about lost income... 3) Medical mistrust...
+
+**After:**
+> Our analysis revealed three key themes influencing breast reconstruction decisions: 1) Patient-provider communication... 2) **Financial toxicity**, including concerns about lost income... 3) Medical mistrust...
+
+**Rationale:**
+- **Consistency:** Results section uses "Financial toxicity" as section header (line 216)
+- **Precision:** "Financial toxicity" is the medical literature term for economic hardship from healthcare costs
+- **Recent context:** Results section now emphasizes 55% financial toxicity rate (2.3× national average)
+- **Supervisor feedback:** "mirror thematic revisions in Abstract"
+
+---
+
+### Supervisor Feedback Addressed
+
+From scanned feedback pages (2024-10-12) and `.parallel/supervisor-feedback-todos.md`:
+
+✅ **Table 1: Collapse staging categories to 0-IV** - Completed
+✅ **Table 1: Audit capitalization** - Verified, "Black" properly capitalized
+✅ **Abstract: Review for supervisor comments** - No comments found
+✅ **Abstract: Mirror thematic revisions** - Terminology aligned with Results
+
+---
+
+### Research Documentation
+
+**New Files Created:**
+- `.parallel/research/table-packages-comparison-20251023.md` - Evaluation of tableone vs great_tables
+- `.parallel/edits/table1-abstract-review-20251023.md` - Complete session report
+
+**Key Research Findings:**
+- tableone package is purpose-built for medical research Table 1 demographics
+- Automatically formats continuous (median/IQR) and categorical (n/%) variables
+- Exports to multiple journal-accepted formats (HTML, LaTeX, Excel, CSV)
+
+---
+
+### Validation
+
+- ✅ Manuscript renders successfully to `_output/index.docx`
+- ✅ All citations intact (no [?] markers)
+- ✅ Abstract terminology consistent with Results section
+- ✅ Table 1 staging simplified per supervisor feedback
+- ✅ Professional table formatting using standard medical research package
+
+---
+
+### Dependencies Added
+
+Added to `pyproject.toml`:
+- tableone==0.9.5
+- pandas==2.3.3
+- openpyxl==3.1.5 (for Excel export)
+
+---
+
+### Impact
+
+- **Table 1:** Now has simplified, readable staging categories appropriate for sample size
+- **Abstract:** Terminology aligned with Results section ("financial toxicity")
+- **Reproducibility:** Table 1 generation automated via Python script
+- **Multi-format output:** Table 1 available in HTML, Excel, LaTeX, CSV for various submission needs
+
+---
+
 ## 2025-10-23 - Discussion Section Editorial Improvements
 
 ### Overview
