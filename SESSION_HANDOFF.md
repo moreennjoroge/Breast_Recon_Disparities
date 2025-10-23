@@ -1,21 +1,26 @@
 # Session Handoff - Ready for Next Claude Instance
 
-**Date:** 2025-10-23
-**Session Type:** Manuscript Review & Update (Methods + Results)
-**Status:** ✅ COMPLETE - Ready to continue with Discussion section
+**Date:** 2025-10-23 (Updated after Discussion edits)
+**Session Type:** Manuscript Review & Update (Methods + Results + Discussion)
+**Status:** ✅ ~70-75% COMPLETE - Ready to continue with Tables/Figures
 
 ---
 
 ## 🎯 Quick Start for Next Session
 
-### What Was Done (This Session)
+### What Was Done (Recent Sessions)
 
-**Completed:** Methods & Results section review and update
+**Session 1 - Methods & Results (2025-10-23 morning):**
 - ✅ Methods: Added 7 qualitative methodology citations (0→7)
 - ✅ Results: Added 5 contextualizing citations
 - ✅ Results: Shortened 4 long quotes per supervisor feedback
 - ✅ Results: Replaced 5 vague quantifiers with specific counts
 - ✅ Bibliography: Added 9 new citations
+
+**Session 2 - Discussion Editorial Improvements (2025-10-23 afternoon):**
+- ✅ Discussion: Removed 3 temporal markers ("Recent" qualifiers)
+- ✅ Discussion: Added concluding sentence to Limitations section
+- ✅ Discussion: Broke Clinical Implications into 3 paragraphs (was 1 long)
 - ✅ Validation: Manuscript renders without errors
 
 **See:** `CHANGELOG.md` for detailed changes
@@ -24,22 +29,21 @@
 
 ## 📋 What's Next (Priority Order)
 
-### HIGH PRIORITY - Discussion Section
+### MEDIUM PRIORITY - Tables and Figures
 
-From supervisor feedback (pages 9-10):
+From supervisor feedback:
 
-1. **"don't feel PM" + "cite too much dates"**
-   - Reduce date/PM references throughout Discussion
-   - Keep only essential timeline information
+1. **Table 1 updates**
+   - Collapse staging categories to 0-IV (currently has IIA, IIB, etc.)
+   - Audit capitalization for racial descriptors ("Black" should be capitalized)
 
-2. **"focus WR needs concluding sentence or two"**
-   - Add conclusions to Discussion subsections
-   - Identify which subsections lack wrap-up sentences
+2. **Add socioecological model figure**
+   - Visual representation of personal → interpersonal → systemic levels
+   - Shows how themes map to ecological framework
 
-3. **"slow down" + "consider moving into paragraphs here"**
-   - Improve Discussion pacing
-   - Better paragraph organization
-   - Stronger transitions
+3. **Abstract review**
+   - Check for supervisor comments
+   - Mirror thematic revisions
 
 **See:** `.parallel/supervisor-feedback-todos.md` for complete task list
 
@@ -134,14 +138,15 @@ per supervisor feedback (page 10)"
 ### Overall Manuscript Status
 - ✅ Methods: Complete (7 citations, methodologically rigorous)
 - ✅ Results: Complete (contextualized, quotes shortened, specific counts)
-- ⏸️ **Discussion: Needs work** (date cleanup, conclusions, pacing)
-- ⏸️ Introduction: Minor edits needed (citation organization)
+- ✅ **Discussion: Complete** (temporal markers removed, pacing improved, conclusions added)
+- ⏸️ Tables: Need updates (staging categories, capitalization)
+- ⏸️ Figures: Need socioecological model figure
 - ⏸️ Abstract: Check for comments
-- ⏸️ Conclusion: Check for completeness
+- ⏸️ Introduction: Minor edits needed (citation organization)
 
 ### Supervisor Feedback Status
-- **Completed:** ~50-60% (12 items done)
-- **Remaining:** ~40-50% (8-12 items, mostly Discussion)
+- **Completed:** ~70-75% (19 items done)
+- **Remaining:** ~25-30% (6-11 items: Tables, Figure, Abstract, Introduction citations)
 
 ### Citation Status
 - **Total in manuscript:** ~40+ citations

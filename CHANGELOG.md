@@ -1,5 +1,56 @@
 # Manuscript Changelog
 
+## 2025-10-23 - Discussion Section Editorial Improvements
+
+### Overview
+Addressed high-priority supervisor feedback on Discussion section pacing, temporal emphasis, and concluding statements. Improved readability and flow per supervisor comments: "slow down," "cite too much dates," and "focus WR needs concluding sentence or two."
+
+### Discussion Section Changes (Lines 238-276)
+
+**Temporal Emphasis Reduced:**
+- **Line 240:** Removed "recent" from "recent systematic reviews" → "systematic reviews"
+  - Rationale: Citation date [@vangsness2024] makes recency clear
+- **Line 246:** Removed "Recent evidence demonstrates" → "Information satisfaction serves as"
+  - More direct statement, less temporal marker
+- **Line 262:** Removed "Recent evidence demonstrates" → Direct statement "Black patients face"
+  - Cleaner phrasing, citation [@freeman2024] provides temporal context
+
+**Limitations Section Conclusion Added (Line 268):**
+- Added concluding sentence: "Despite these limitations, our findings provide valuable insights into the lived experiences of Black women navigating breast reconstruction decisions and identify actionable targets for intervention development."
+- Rationale: Addressed supervisor feedback "focus WR needs concluding sentence or two"
+- Effect: Provides closure and affirms value of findings despite acknowledged limitations
+
+**Clinical Implications Paragraph Structure (Lines 270-276):**
+- Split single long paragraph into **3 focused paragraphs** for better pacing
+- Paragraph 1 (Line 272): Visual aids and patient education
+- Paragraph 2 (Line 274): Financial counseling and recovery expectations
+- Paragraph 3 (Line 276): Trust-building and cultural competence
+- Rationale: Addressed supervisor feedback "slow down" and "consider moving into paragraphs here"
+
+### Supervisor Feedback Addressed
+
+From scanned feedback pages (2024-10-12):
+
+✅ **"cite too much dates"** - Removed 3 temporal markers ("Recent" qualifiers)
+✅ **"slow down"** - Improved pacing by breaking Clinical Implications into 3 paragraphs
+✅ **"focus WR needs concluding sentence or two"** - Added conclusion to Limitations section
+
+### Impact
+
+- **Improved readability:** Discussion flows more smoothly with better paragraph structure
+- **Reduced temporal emphasis:** Less repetitive use of "recent/Recent" qualifiers
+- **Better closure:** Limitations section now properly concludes with affirmation of findings
+- **Enhanced pacing:** Clinical Implications broken into digestible chunks
+
+### Validation
+
+- ✅ Rendered successfully to `_output/index.docx` (25 KB)
+- ✅ All citations intact (no [?] markers)
+- ✅ Manuscript structure preserved
+- ✅ No rendering errors
+
+---
+
 ## 2025-10-23 - Methods & Results Section Review and Update
 
 ### Overview
