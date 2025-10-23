@@ -3,48 +3,63 @@
 ## Project Milestones
 
 ### Phase 1: Manuscript Development
-- [ ] Complete Introduction section
-  - [ ] Literature review on breast reconstruction disparities
-  - [ ] Study rationale and significance
-  - [ ] Research questions/aims
-- [ ] Complete Methods section
-  - [ ] Study design details
-  - [ ] Participant recruitment and eligibility
-  - [ ] Interview guide description
-  - [ ] Thematic analysis methodology
-  - [ ] IRB approval information
-- [ ] Complete Results section
-  - [ ] Participant demographics table
-  - [ ] Theme 1: Patient-Provider Communication
-  - [ ] Theme 2: Financial Barriers
-  - [ ] Theme 3: Medical Mistrust
-  - [ ] Supporting quotes for each theme
-- [ ] Complete Discussion section
-  - [ ] Interpretation of findings
-  - [ ] Comparison with existing literature
-  - [ ] Clinical implications
-  - [ ] Policy implications
-  - [ ] Study limitations
-  - [ ] Future research directions
-- [ ] Complete Conclusion
+- [x] Complete Introduction section ✅ (2025-10-23: Enhanced with current evidence)
+  - [x] Literature review on breast reconstruction disparities
+  - [x] Study rationale and significance
+  - [x] Research questions/aims
+- [x] Complete Methods section ✅ (2025-10-23: Added 7 qualitative citations)
+  - [x] Study design details
+  - [x] Participant recruitment and eligibility
+  - [x] Interview guide description
+  - [x] Thematic analysis methodology (Braun & Clarke 2006 cited)
+  - [x] IRB approval information
+- [x] Complete Results section ✅ (2025-10-23: Quotes shortened, quantifiers specified, citations added)
+  - [x] Participant demographics table (Table 1 exists)
+  - [x] Theme 1: Patient-Provider Communication
+  - [x] Theme 2: Financial Barriers (contextualized with 5 citations)
+  - [x] Theme 3: Medical Mistrust
+  - [x] Supporting quotes for each theme (shortened per supervisor feedback)
+- [ ] Complete Discussion section ⏸️ (Needs work per supervisor feedback)
+  - [x] Interpretation of findings
+  - [x] Comparison with existing literature
+  - [x] Clinical implications
+  - [x] Policy implications
+  - [ ] **Reduce date/PM references** (supervisor: "don't feel PM", "cite too much dates")
+  - [ ] **Add subsection conclusions** (supervisor: "focus WR needs concluding sentence or two")
+  - [ ] **Improve pacing** (supervisor: "slow down", "consider moving into paragraphs here")
+  - [x] Study limitations
+  - [x] Future research directions
+- [x] Complete Conclusion ✅
 
 ### Phase 2: Tables and Figures
-- [ ] Table 1: Participant Demographics
-- [ ] Table 2: Themes and Subthemes with Representative Quotes
-- [ ] Figure 1: Conceptual Model (if applicable)
+- [x] Table 1: Participant Demographics ✅ (Exists, visible in supervisor feedback)
+  - [ ] **Collapse staging categories to 0-IV** (supervisor feedback)
+  - [ ] **Audit capitalization for racial descriptors** (supervisor feedback)
+- [x] Table 2: Themes and Subthemes with Representative Quotes ✅ (Table 2 copy.docx exists)
+  - [ ] **Mirror thematic revisions** (supervisor feedback)
+- [ ] Figure 1: Conceptual Model (if applicable) ⏸️ (Supervisor suggests socioecological model)
 - [ ] Supplementary materials
 
 ### Phase 3: References and Formatting
-- [ ] Complete literature review
-- [ ] Format references
-- [ ] Ensure consistent citation style
-- [ ] Check journal requirements
+- [x] Complete literature review ✅ (2025-10-23: Added 16 citations found, 9 added to bib)
+- [x] Format references ✅ (references.bib maintained, 745 lines)
+- [x] Ensure consistent citation style ✅ (AMA numeric style via springer-vancouver.csl)
+- [ ] Check journal requirements ⏸️ (Target journal not yet specified)
 
 ### Phase 4: Review and Revision
-- [ ] Internal review by co-authors
-- [ ] Address reviewer comments
-- [ ] Final proofread
-- [ ] Format for journal submission
+- [x] Internal review by co-authors ✅ (Supervisor feedback 2024-10-12 received)
+- [x] Address reviewer comments ⏸️ **~60% COMPLETE** (2025-10-23)
+  - [x] Shorten quotations (4 quotes shortened)
+  - [x] Balance participant quotations (improved with specific counts)
+  - [x] Add Methods citations (7 added)
+  - [x] Add Results contextualization (5 citations added)
+  - [ ] **Reduce Discussion date/PM references** (HIGH PRIORITY)
+  - [ ] **Add Discussion subsection conclusions** (HIGH PRIORITY)
+  - [ ] **Improve Discussion pacing and organization** (HIGH PRIORITY)
+  - [ ] Collapse Table 1 staging categories
+  - [ ] Add supporting figure (socioecological model)
+- [ ] Final proofread ⏸️ (After Discussion edits complete)
+- [ ] Format for journal submission ⏸️ (Pending journal target identification)
 
 ## Writing Tasks
 
@@ -90,6 +105,14 @@
 ## Meeting Notes
 
 [Add notes from research meetings, discussions with co-authors, etc.]
+
+### 2024-10-12 Supervisor Feedback (Moreen)
+- Add at least one supporting figure (e.g., socioecological model); streamline Results to foreground analytic narrative and trim quotations.
+- Revise Methods to cite the prior mixed-methods review, clarify purposive sampling/recruitment, remove specific gift-card amounts, and expand reflexivity/acknowledgments per COREQ.
+- Reorganize Introduction to surface the disparity gap sooner and shift comparative literature to Discussion with up-to-date citations.
+- Shorten and balance participant quotations across themes; avoid duplicates and ensure each theme features multiple voices.
+- Restructure Discussion by theme (personal → interpersonal → systemic), replace precise dates with broader timeframes, add concluding sentences, and tie claims to data/literature on culturally concordant communication, financial toxicity, and medical mistrust.
+- Collapse Table 1 staging categories to 0–IV, audit capitalization for racial descriptors, and mirror thematic revisions in Abstract and Table 2.
 
 ## Revision History
 
