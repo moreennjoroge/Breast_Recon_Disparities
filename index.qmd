@@ -61,14 +61,7 @@ affiliations:
     city: Baltimore
     state: MD
 
-abstract: |
-  **Background:** Despite the psychosocial benefits of post-mastectomy breast reconstruction, Black women undergo this procedure at significantly lower rates than White women. This study explores the complex interplay of personal, interpersonal, and systemic factors influencing the breast reconstruction decision-making process among Black women.
 
-  **Methods:** We conducted semi-structured interviews with 11 Black women (median age 45 years, IQR: 10) who were considering or had pursued breast reconstruction following breast cancer diagnosis. Interviews were transcribed and analyzed using thematic content analysis.
-
-  **Results:** Our analysis revealed three key themes influencing breast reconstruction decisions: 1) Patient-provider communication, emphasizing the need for culturally sensitive interactions and race-concordant visual aids; 2) Financial barriers, including concerns about lost income and out-of-pocket expenses; and 3) Medical mistrust, stemming from historical racial disparities in healthcare. Participants also reported feeling unprepared for the physical and emotional toll of reconstruction, suggesting a need for more comprehensive preoperative counseling.
-
-  **Conclusion:** Black women face unique challenges in breast reconstruction decision-making, including communication barriers, financial concerns, and medical mistrust. Our findings underscore the need for tailored interventions, including culturally sensitive communication strategies, comprehensive financial counseling, and efforts to address historical mistrust. Integrating these concerns into preoperative consultations may help mitigate disparities in breast reconstruction uptake among Black women and improve overall care quality.
 
 keywords:
   - breast reconstruction
@@ -82,7 +75,7 @@ funding: "This work was supported by the Kenan Grant."
 
 ---
 
-**Short Running Head:** Breast Reconstruction Decisions Among Black Women
+<!-- **Short Running Head:** Breast Reconstruction Decisions Among Black Women -->
 
 <!-- ## Affiliations
 
@@ -112,17 +105,17 @@ Baltimore, MD, 21287
 
 Email: LMundy3\@jhu.edu -->
 
-**Financial Disclosure Statement:** This work was supported by the Kenan Grant.
+<!-- **Financial Disclosure Statement:** This work was supported by the Kenan Grant.
 
 **Short Running Head:** Breast Reconstruction Decisions Among Black Women
 
-**Words:**
+**Words:** -->
 
 \newpage
 
 # ABSTRACT
 
-**Background:** Despite the psychosocial benefits of post-mastectomy breast reconstruction, Black women undergo this procedure at significantly lower rates than White women. This study explores the complex interplay of personal, interpersonal, and systemic factors influencing the breast reconstruction decision-making process among Black women.
+**Background:** Despite the psychosocial benefits of post-mastectomy breast reconstruction, Black women are 33% less likely to undergo this procedure compared to White women. This study explores the complex interplay of personal, interpersonal, and systemic factors influencing the breast reconstruction decision-making process among Black women.
 
 **Methods:** We conducted semi-structured interviews with 11 Black women (median age 45 years, IQR: 10) who were considering or had pursued breast reconstruction following breast cancer diagnosis. Interviews were transcribed and analyzed using thematic content analysis.
 
@@ -134,19 +127,13 @@ Email: LMundy3\@jhu.edu -->
 
 # INTRODUCTION
 
-Breast reconstruction following mastectomy enhances psychosocial outcomes and quality of life for breast cancer survivors.[@epstein2018] Despite well-documented benefits, significant disparities persist in reconstruction rates between Black and White women.[@mahmoudi2017; @soni2017] These disparities, extending beyond clinical factors, underscore critical healthcare equity concerns that warrant in-depth analysis.
+Breast reconstruction following mastectomy offers significant psychosocial and quality-of-life benefits for breast cancer survivors.[@epstein2018] Despite these well-documented advantages, substantial racial disparities persist in reconstruction utilization. A 2024 systematic review and meta-analysis of 1.8 million patients demonstrated that Black women are 33% less likely to undergo immediate breast reconstruction compared to White women, a disparity that persists across geographic regions and healthcare settings.[@qazi2024] Earlier studies have consistently documented similar racial gaps in reconstruction uptake, with differences not fully explained by clinical factors alone.[@mahmoudi2017; @soni2017]
 
-Recent studies have illuminated the complexity of breast reconstruction decision-making across diverse populations. Fu et al. examined how cultural and individual factors influence these decisions among Asian immigrant women in the U.S., while Wang et al. revealed how systemic, provider, and patient-level factors create divergent reconstruction pathways.[@sergesketter2019decline; @berlin2018] The need for breast reconstruction in enhancing survivors' well-being is well-established, yet the lower uptake rates among Black women compared to White women require deeper investigation into underlying factors.
+Importantly, clinical outcomes do not account for these disparities. Research demonstrates that Black women achieve surgical outcomes comparable to other racial groups following breast reconstruction, even when presenting with higher baseline comorbidity rates.[@butler2015; @greenberg2008] This finding suggests that the observed racial disparities in reconstruction rates stem from non-clinical factors rather than medical contraindications or inferior outcomes. Understanding the personal, interpersonal, and systemic barriers underlying these disparities is therefore essential to developing effective interventions.
 
-Black women face unique challenges in opting for breast reconstruction. Research indicates higher preoperative comorbidity rates among this population, without a corresponding increase in postoperative complications.[@hershman2009; @greenup2021] This discrepancy suggests that non-clinical factors play a significant role in these outcomes. Notably, some outcome data of post-autologous reconstruction demonstrate that Black women achieve results similar to other demographics, despite increased preoperative risks.[@greenberg2008] These findings emphasize the need for targeted improvements in patient education and provider interactions.
+Prior research has identified multiple factors influencing breast reconstruction decision-making among Black women. Patient-level factors include financial concerns, emotional readiness, and desire for body wholeness.[@connors2021; @rubin2013] At the interpersonal level, the quality of patient-provider communication and shared decision-making significantly impacts reconstruction choices.[@morrow2014; @sheppard2011] Systemic barriers encompass healthcare access, insurance coverage, and institutional practices.[@sergesketter2019persistent; @berlin2018] Medical mistrust, rooted in historical racial disparities in healthcare, further complicates these decisions.[@scharff2010; @halbert2006] Despite this growing body of literature, significant knowledge gaps remain regarding how these multilevel factors interact and influence reconstruction decision-making among Black women.
 
-The decision-making process for breast reconstruction among Black women is influenced by a complex interplay of factors. These include personal experiences, financial constraints, desire for wholeness, quality of interpersonal interactions with healthcare providers, and systemic barriers such as healthcare access.[@connors2021; @butler2015; @sergesketter2019persistent] Emotional readiness, financial considerations, and patient-provider relationships significantly affect these decisions, often overriding clinical recommendations.[@mcleroy1988; @rubin2013]
-
-This study aims to investigate the individual, interpersonal, and systemic factors influencing breast reconstruction decisions among Black women. By elucidating this decision-making process, we seek to develop strategies to mitigate disparities, such as implementing peer support programs and providing financial resources. Our focus on provider communication, patient education, and addressing systemic barriers aims to improve access to and uptake of
-
-\newpage
-
-breast reconstruction among Black women, ultimately enhancing care equity through targeted interventions.
+This qualitative study addresses these gaps by examining the lived experiences of Black women navigating breast reconstruction decisions. Using an ecological framework, we explored individual, interpersonal, and systemic influences on reconstruction decision-making among 11 Black women who were considering or had pursued breast reconstruction. By elucidating the complex interplay of factors affecting these decisions, this study aims to inform the development of targeted interventions—including culturally sensitive communication strategies, comprehensive financial counseling, and systemic changes—to reduce disparities and improve equitable access to breast reconstruction.
 
 # METHODS
 
