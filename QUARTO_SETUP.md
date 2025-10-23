@@ -7,8 +7,8 @@ Run these commands in your GitHub Codespace terminal:
 ```bash
 # Download and install Quarto
 cd /tmp
-wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.39/quarto-1.6.39-linux-amd64.deb
-sudo dpkg -i quarto-1.6.39-linux-amd64.deb
+wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.8.25/quarto-1.8.25-linux-amd64.deb
+sudo dpkg -i quarto-1.8.25-linux-amd64.deb
 
 # Verify installation
 quarto --version

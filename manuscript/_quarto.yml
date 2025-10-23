@@ -7,7 +7,6 @@ format:
     toc: false
     number-sections: false
     highlight-style: github
-    reference-doc: custom-reference.docx
   pdf:
     documentclass: article
     papersize: letter
