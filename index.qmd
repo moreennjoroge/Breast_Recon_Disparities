@@ -1,24 +1,90 @@
 ---
 title: "Personal, Interpersonal, and Systemic Influences on Breast Reconstruction: A Qualitative Study Among Black Women"
-format:
-  docx: default
-  pdf:
-    documentclass: article
-    geometry: margin=1in
-    fontsize: 12pt
-    linestretch: 2
-  html:
-    toc: true
-    toc-depth: 2
-bibliography: ../references/references.bib
-csl: ama.csl
+  
+author:
+  - name: Moreen W. Njoroge
+    affiliations:
+      - ref: duke
+    email: moreen.njoroge@duke.edu
+    orcid: 
+  - name: Ahlam Ameera Khatlab
+    affiliations:
+      - ref: duke
+  - name: Bryanna Stokes
+    affiliations:
+      - ref: duke
+  - name: Sabrina M. Wang
+    affiliations:
+      - ref: duke
+  - name: Laura Thai
+    affiliations:
+      - ref: duke-fam
+  - name: Amanda Sergesketter
+    affiliations:
+      - ref: duke
+  - name: Geoffrey Sisk
+    affiliations:
+      - ref: duke
+  - name: Kristine M. Rezak
+    affiliations:
+      - ref: duke
+  - name: Oluwadamilola Fayanju
+    affiliations:
+      - ref: duke-fam
+  - name: Rachel Greenup
+    affiliations:
+      - ref: duke-fam
+  - name: Scott T. Hollenbeck
+    affiliations:
+      - ref: penn
+  - name: Lily R. Mundy
+    affiliations:
+      - ref: jhu
+    email: LMundy3@jhu.edu
+    corresponding: true
+
+affiliations:
+  - id: duke
+    name: Division of Plastic, Maxillofacial, and Oral Surgery, Department of Surgery, Duke University
+    city: Durham
+    state: NC
+  - id: duke-fam
+    name: Department of Family Medicine and Community Health, Duke University
+    city: Durham
+    state: NC
+  - id: penn
+    name: Department of Surgery, University of Pennsylvania
+    city: Philadelphia
+    state: PA
+  - id: jhu
+    name: Department of Plastic and Reconstructive Surgery, Johns Hopkins University
+    city: Baltimore
+    state: MD
+
+abstract: |
+  **Background:** Despite the psychosocial benefits of post-mastectomy breast reconstruction, Black women undergo this procedure at significantly lower rates than White women. This study explores the complex interplay of personal, interpersonal, and systemic factors influencing the breast reconstruction decision-making process among Black women.
+
+  **Methods:** We conducted semi-structured interviews with 11 Black women (median age 45 years, IQR: 10) who were considering or had pursued breast reconstruction following breast cancer diagnosis. Interviews were transcribed and analyzed using thematic content analysis.
+
+  **Results:** Our analysis revealed three key themes influencing breast reconstruction decisions: 1) Patient-provider communication, emphasizing the need for culturally sensitive interactions and race-concordant visual aids; 2) Financial barriers, including concerns about lost income and out-of-pocket expenses; and 3) Medical mistrust, stemming from historical racial disparities in healthcare. Participants also reported feeling unprepared for the physical and emotional toll of reconstruction, suggesting a need for more comprehensive preoperative counseling.
+
+  **Conclusion:** Black women face unique challenges in breast reconstruction decision-making, including communication barriers, financial concerns, and medical mistrust. Our findings underscore the need for tailored interventions, including culturally sensitive communication strategies, comprehensive financial counseling, and efforts to address historical mistrust. Integrating these concerns into preoperative consultations may help mitigate disparities in breast reconstruction uptake among Black women and improve overall care quality.
+
+keywords:
+  - breast reconstruction
+  - disparities
+  - qualitative research
+  - patient decision-making
+  - health equity
+
+funding: "This work was supported by the Kenan Grant."
+
+
 ---
 
-## Authors
+**Short Running Head:** Breast Reconstruction Decisions Among Black Women
 
-Moreen W. Njoroge, BA^1^, Ahlam Ameera Khatlab, BS, MS^1^, Bryanna Stokes, MD^1^, Sabrina M. Wang, BS^1^, Laura Thai, PhD^2^, Amanda Sergesketter, MD^1^, Geoffrey Sisk^1^, Kristine M. Rezak, MD^1^, Oluwadamilola Fayanju, MD, MPH^2^, Rachel Greenup, MD, MPH^2^, Scott T. Hollenbeck, MD^3^, Lily R. Mundy, MD^6^
-
-## Affiliations
+<!-- ## Affiliations
 
 ^1^Division of Plastic, Maxillofacial, and Oral Surgery, Department of Surgery, Duke University, Durham, NC
 
@@ -30,9 +96,9 @@ Moreen W. Njoroge, BA^1^, Ahlam Ameera Khatlab, BS, MS^1^, Bryanna Stokes, MD^1^
 
 ^5^Department of Plastic and Maxillofacial Surgery, University of Virginia, Charlottesville, VA
 
-^6^Department of Plastic and Reconstructive Surgery, Johns Hopkins University, Baltimore, MD
+^6^Department of Plastic and Reconstructive Surgery, Johns Hopkins University, Baltimore, MD -->
 
-## Corresponding Author
+<!-- ## Corresponding Author
 
 Lily R. Mundy, MD
 
@@ -44,7 +110,7 @@ Johns Hopkins University School of Medicine
 
 Baltimore, MD, 21287
 
-Email: LMundy3\@jhu.edu
+Email: LMundy3\@jhu.edu -->
 
 **Financial Disclosure Statement:** This work was supported by the Kenan Grant.
 
@@ -68,13 +134,13 @@ Email: LMundy3\@jhu.edu
 
 # INTRODUCTION
 
-Breast reconstruction following mastectomy enhances psychosocial outcomes and quality of life for breast cancer survivors.^1^ Despite well-documented benefits, significant disparities persist in reconstruction rates between Black and White women.^2,3^ These disparities, extending beyond clinical factors, underscore critical healthcare equity concerns that warrant in-depth analysis.
+Breast reconstruction following mastectomy enhances psychosocial outcomes and quality of life for breast cancer survivors.[@epstein2018] Despite well-documented benefits, significant disparities persist in reconstruction rates between Black and White women.[@mahmoudi2017; @soni2017] These disparities, extending beyond clinical factors, underscore critical healthcare equity concerns that warrant in-depth analysis.
 
-Recent studies have illuminated the complexity of breast reconstruction decision-making across diverse populations. Fu et al. examined how cultural and individual factors influence these decisions among Asian immigrant women in the U.S., while Wang et al. revealed how systemic, provider, and patient-level factors create divergent reconstruction pathways.^4,5^ The need for breast reconstruction in enhancing survivors' well-being is well-established, yet the lower uptake rates among Black women compared to White women require deeper investigation into underlying factors.
+Recent studies have illuminated the complexity of breast reconstruction decision-making across diverse populations. Fu et al. examined how cultural and individual factors influence these decisions among Asian immigrant women in the U.S., while Wang et al. revealed how systemic, provider, and patient-level factors create divergent reconstruction pathways.[@sergesketter2019decline; @berlin2018] The need for breast reconstruction in enhancing survivors' well-being is well-established, yet the lower uptake rates among Black women compared to White women require deeper investigation into underlying factors.
 
-Black women face unique challenges in opting for breast reconstruction. Research indicates higher preoperative comorbidity rates among this population, without a corresponding increase in postoperative complications.^6,7^ This discrepancy suggests that non-clinical factors play a significant role in these outcomes. Notably, some outcome data of post-autologous reconstruction demonstrate that Black women achieve results similar to other demographics, despite increased preoperative risks.^8^ These findings emphasize the need for targeted improvements in patient education and provider interactions.
+Black women face unique challenges in opting for breast reconstruction. Research indicates higher preoperative comorbidity rates among this population, without a corresponding increase in postoperative complications.[@hershman2009; @greenup2021] This discrepancy suggests that non-clinical factors play a significant role in these outcomes. Notably, some outcome data of post-autologous reconstruction demonstrate that Black women achieve results similar to other demographics, despite increased preoperative risks.[@greenberg2008] These findings emphasize the need for targeted improvements in patient education and provider interactions.
 
-The decision-making process for breast reconstruction among Black women is influenced by a complex interplay of factors. These include personal experiences, financial constraints, desire for wholeness, quality of interpersonal interactions with healthcare providers, and systemic barriers such as healthcare access.^12-14^ Emotional readiness, financial considerations, and patient-provider relationships significantly affect these decisions, often overriding clinical recommendations.^15,16^
+The decision-making process for breast reconstruction among Black women is influenced by a complex interplay of factors. These include personal experiences, financial constraints, desire for wholeness, quality of interpersonal interactions with healthcare providers, and systemic barriers such as healthcare access.[@connors2021; @butler2015; @sergesketter2019persistent] Emotional readiness, financial considerations, and patient-provider relationships significantly affect these decisions, often overriding clinical recommendations.[@mcleroy1988; @rubin2013]
 
 This study aims to investigate the individual, interpersonal, and systemic factors influencing breast reconstruction decisions among Black women. By elucidating this decision-making process, we seek to develop strategies to mitigate disparities, such as implementing peer support programs and providing financial resources. Our focus on provider communication, patient education, and addressing systemic barriers aims to improve access to and uptake of
 
@@ -188,9 +254,9 @@ This qualitative study identifies critical factors influencing breast reconstruc
 
 ## Patient-Provider Communication and Decision-Making
 
-Patient-provider communication emerged as a crucial determinant in the decision-making process. Participants consistently emphasized the importance of seeing reconstruction outcomes in women with similar racial backgrounds, reflecting a deep-seated need for relatable examples that align with cultural expectations. Incorporating diverse visual aids and examples of reconstruction outcomes in patient education materials can promote informed choices and address disparities.^4,9^ Fu et al. reported similar findings, demonstrating the role of cultural and individual factors in shaping breast reconstruction decisions among Asian immigrant women in the United States.^4^
+Patient-provider communication emerged as a crucial determinant in the decision-making process. Participants consistently emphasized the importance of seeing reconstruction outcomes in women with similar racial backgrounds, reflecting a deep-seated need for relatable examples that align with cultural expectations. Incorporating diverse visual aids and examples of reconstruction outcomes in patient education materials can promote informed choices and address disparities.[@sergesketter2019decline; @fu2017] Fu et al. reported similar findings, demonstrating the role of cultural and individual factors in shaping breast reconstruction decisions among Asian immigrant women in the United States.[@sergesketter2019decline]
 
-The quality and depth of information provided during consultations varied widely among participants. While some reported feeling overwhelmed by technical jargon, others expressed a desire for more detailed explanations of procedural options and potential outcomes. This variability underscores the need for individualized approaches to patient education tailored to each patient's preferences and learning style.^16,17^
+The quality and depth of information provided during consultations varied widely among participants. While some reported feeling overwhelmed by technical jargon, others expressed a desire for more detailed explanations of procedural options and potential outcomes. This variability underscores the need for individualized approaches to patient education tailored to each patient's preferences and learning style.[@rubin2013; @pusic2009]
 
 The surgeon's communication style played a vital role in facilitating informed choices. Participants valued clear and empathetic communication, and appreciated when surgeons addressed their specific concerns. However, several women reported feeling rushed during consultations, which limited their ability to fully process information and ask questions. This highlights the importance of allocating sufficient time for consultations and fostering an environment where patients feel comfortable expressing concerns.
 
@@ -198,17 +264,17 @@ Limitations based on clinical factors such as BMI, prior radiation, or previous 
 
 ## Financial Barriers to Care
 
-Although most participants reported that insurance covered the cost of reconstruction procedures, many faced significant financial strain due to extended time off work for multiple surgeries and recovery. The economic burden extended beyond medical expenses to include lost income, childcare costs, and other out-of-pocket expenses. This financial toxicity highlights the need for comprehensive financial counseling as part of preoperative planning.^18,20^
+Although most participants reported that insurance covered the cost of reconstruction procedures, many faced significant financial strain due to extended time off work for multiple surgeries and recovery. The economic burden extended beyond medical expenses to include lost income, childcare costs, and other out-of-pocket expenses. This financial toxicity highlights the need for comprehensive financial counseling as part of preoperative planning.[@morrow2014; @greenup2022]
 
 The gap between expected and actual recovery time created substantial hardship for many participants. Several women described being told they would be out of work for six to eight weeks, only to find themselves unable to return for eight months or longer. This discrepancy between expectations and reality suggests that more accurate preoperative counseling about recovery timelines is needed, particularly for patients who face economic vulnerabilities.
 
-Financial counseling should address not only direct medical costs but also indirect expenses such as transportation, childcare, and income replacement. Providing patients with realistic expectations about time away from work and connecting them with financial assistance programs may help mitigate disparities and support informed decision-making.^9,11^
+Financial counseling should address not only direct medical costs but also indirect expenses such as transportation, childcare, and income replacement. Providing patients with realistic expectations about time away from work and connecting them with financial assistance programs may help mitigate disparities and support informed decision-making.[@fu2017; @ballard2017]
 
 ## Medical Mistrust and Cultural Competency
 
-Historical mistrust of the healthcare system, rooted in systemic racism and past medical abuses, emerged as a significant barrier for some participants. This mistrust influenced their willingness to undergo elective procedures and their interactions with healthcare providers.^13,22,28^ The legacy of events such as the Tuskegee Syphilis Study has left lasting impacts on Black Americans' trust in medical institutions.^22^
+Historical mistrust of the healthcare system, rooted in systemic racism and past medical abuses, emerged as a significant barrier for some participants. This mistrust influenced their willingness to undergo elective procedures and their interactions with healthcare providers.[@butler2015; @alsan2018; @scharff2010] The legacy of events such as the Tuskegee Syphilis Study has left lasting impacts on Black Americans' trust in medical institutions.[@alsan2018]
 
-Surgeons should engage in transparent, empathetic communication with patients, providing clear, detailed information about the risks and benefits of breast reconstruction. This approach may help address mistrust and enable more informed decision-making.^17,18^ Building trust requires sustained efforts through culturally competent care, transparent communication, and acknowledgment of historical injustices. Future interventions should focus on improving communication and education while respecting patients' careful evaluations of their individual risk-benefit considerations.
+Surgeons should engage in transparent, empathetic communication with patients, providing clear, detailed information about the risks and benefits of breast reconstruction. This approach may help address mistrust and enable more informed decision-making.[@pusic2009; @morrow2014] Building trust requires sustained efforts through culturally competent care, transparent communication, and acknowledgment of historical injustices. Future interventions should focus on improving communication and education while respecting patients' careful evaluations of their individual risk-benefit considerations.
 
 ## Limitations
 

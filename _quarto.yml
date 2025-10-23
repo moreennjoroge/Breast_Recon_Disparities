@@ -1,0 +1,30 @@
+project:
+  type: manuscript
+  output-dir: _output
+  render:
+    - "*.qmd"
+    - "!*.md"
+    - "!archive/"
+
+format:
+  html:
+    page-layout: full
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    highlight-style: github
+    theme: cosmo
+  nature-pdf:
+    journal: 
+      cite-style: sn-vancouver
+      cite-method: citeproc
+
+
+bibliography: references/references.bib
+csl: _extensions/nature/csl/springer-vancouver.csl
+link-citations: true
+
+execute:
+  echo: false
+  warning: false
+  message: false

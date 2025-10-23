@@ -42,6 +42,7 @@ The main manuscript is located at `manuscript/main_manuscript.md`. This file con
 - Structured outline with sections for Introduction, Methods, Results, Discussion, and Conclusion
 - Placeholders for tables and figures
 
+
 ## Data Management
 
 ### Interview Data

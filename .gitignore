@@ -49,3 +49,47 @@ __pycache__/
 # Keep README files
 !README.md
 !*/README.md
+
+
+# Quarto output directory
+_output/
+*.html
+*.pdf
+*.docx
+*.tex
+
+# Quarto cache
+.quarto/
+_freeze/
+_site/
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# R/Python outputs (if using computational cells)
+*_cache/
+*_files/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+/.quarto/
+**/*.quarto_ipynb
+
+/.luarc.json
