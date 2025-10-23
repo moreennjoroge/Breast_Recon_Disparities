@@ -1,5 +1,79 @@
 # Manuscript Changelog
 
+## 2025-10-23 - Methods and Introduction Editorial Improvements
+
+### Overview
+Addressed remaining supervisor feedback: reordered Data Collection paragraph, updated compensation wording, and consolidated Introduction citations for clarity.
+
+### Methods Section Changes
+
+**Data Collection Paragraph Reordering (Line 150):**
+- **Before:** Started with interview logistics → then described interview guide
+- **After:** Interview guide development described FIRST → then interview logistics
+- **Rationale:** Supervisor feedback requested logical flow (design before implementation)
+
+**New structure:**
+1. Interview guide development and content areas (moved to beginning)
+2. Interview conduct details (Zoom/phone, dates, interviewers)
+3. Interview characteristics (duration, recording, transcription)
+
+**Compensation Wording Updated (Line 146):**
+- **Before:** "Participants received a $100 gift card for their time and involvement"
+- **After:** "Participants received compensation for their time and involvement"
+- **Rationale:** Some journals prefer not specifying exact payment amounts
+
+---
+
+### Introduction Citation Consolidation (Line 134)
+
+**Changes Made:**
+- Reduced citation density by attributing each citation to its specific claim
+- Separated medical mistrust statistics into two sentences with distinct citations
+- Removed redundant citations (freeman2024 duplicate, sutton2019, berlin2018)
+
+**Before:** Dense paragraph with multiple 3-4 citation groups at sentence ends
+
+**After:** Clearer attribution:
+- Patient-level factors: [@connors2021; @rubin2013; @kumar2022]
+- Interpersonal level (information satisfaction): [@zong2023] (reduced from 2 citations)
+- Systemic barriers: [@sergesketter2019persistent; @vangsness2024] (reduced from 3)
+- Medical mistrust - 51% survey: [@atske2024] (separated)
+- Medical mistrust - treatment declining: [@alsan2018] (separated)
+
+**Impact:** Reduced from 4 citations in medical mistrust sentence to 2 citations in 2 separate sentences, improving clarity of which study supports which specific finding.
+
+**Rationale:** Supervisor feedback "limit citations by distinction to the person" - now each citation clearly supports a specific claim rather than being grouped ambiguously.
+
+---
+
+### Supervisor Feedback Addressed
+
+From supervisor feedback and follow-up discussion:
+
+✅ **Data Collection paragraph reordering** - Interview guide development now described before interview process
+✅ **Methods compensation wording** - Removed specific dollar amount
+✅ **Introduction citation consolidation** - Clearer attribution, reduced density from 14 to 11 citations in paragraph 3
+
+---
+
+### Validation
+
+- ✅ Manuscript renders successfully to `_output/index.docx`
+- ✅ All citations intact and correctly formatted
+- ✅ Logical flow improved in Methods section
+- ✅ Introduction citations clearer and less dense
+
+---
+
+### Impact
+
+- **Methods:** Better logical flow (design → implementation sequence)
+- **Methods:** More journal-flexible compensation language
+- **Introduction:** Clearer citation-to-claim mapping (improved readability)
+- **Introduction:** Reduced citation density while maintaining scholarly rigor
+
+---
+
 ## 2025-10-23 - Table 1 Corrections and Abstract Terminology Update
 
 ### Overview
