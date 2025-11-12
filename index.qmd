@@ -1,83 +1,23 @@
 ---
 title: "Personal, Interpersonal, and Systemic Influences on Breast Reconstruction: A Qualitative Study Among Black Women"
-  
-author:
-  - name: Moreen W. Njoroge
-    affiliations:
-      - ref: duke
-    email: moreen.njoroge@duke.edu
-    orcid: 
-  - name: Ahlam Ameera Khatlab
-    affiliations:
-      - ref: duke
-  - name: Bryanna Stokes
-    affiliations:
-      - ref: duke
-  - name: Sabrina M. Wang
-    affiliations:
-      - ref: duke
-  - name: Laura Thai
-    affiliations:
-      - ref: duke-fam
-  - name: Amanda Sergesketter
-    affiliations:
-      - ref: duke
-  - name: Geoffrey Sisk
-    affiliations:
-      - ref: duke
-  - name: Kristine M. Rezak
-    affiliations:
-      - ref: duke
-  - name: Oluwadamilola Fayanju
-    affiliations:
-      - ref: duke-fam
-  - name: Rachel Greenup
-    affiliations:
-      - ref: duke-fam
-  - name: Scott T. Hollenbeck
-    affiliations:
-      - ref: penn
-  - name: Lily R. Mundy
-    affiliations:
-      - ref: jhu
-    email: LMundy3@jhu.edu
-    corresponding: true
 
-affiliations:
-  - id: duke
-    name: Division of Plastic, Maxillofacial, and Oral Surgery, Department of Surgery, Duke University
-    city: Durham
-    state: NC
-  - id: duke-fam
-    name: Department of Family Medicine and Community Health, Duke University
-    city: Durham
-    state: NC
-  - id: penn
-    name: Department of Surgery, University of Pennsylvania
-    city: Philadelphia
-    state: PA
-  - id: jhu
-    name: Department of Plastic and Reconstructive Surgery, Johns Hopkins University
-    city: Baltimore
-    state: MD
+format:
+  docx:
+    number-sections: false
+    reference-doc: custom-reference.docx
 
-
-
-keywords:
-  - breast reconstruction
-  - disparities
-  - qualitative research
-  - patient decision-making
-  - health equity
-
-funding: "This work was supported by the Kenan Grant."
-
+bibliography: references/references.bib
+csl: _extensions/nature/csl/springer-vancouver.csl
 
 ---
 
-<!-- **Short Running Head:** Breast Reconstruction Decisions Among Black Women -->
+\newpage
 
-<!-- ## Affiliations
+::: {.title-page}
+
+# Personal, Interpersonal, and Systemic Influences on Breast Reconstruction: A Qualitative Study Among Black Women
+
+Moreen W. Njoroge, BA^1^, Ahlam Ameera Khatlab, BS, MS^1^, Bryanna Stokes, MD^1^, Sabrina M. Wang, BS^1^, Laura Fish, PhD^2^, Amanda Sergesketter, MD^1^, Geoffrey Sisk^1^, Kristine M. Rezak, MD^1^, Oluwadamilola Fayanju, MD, MPH^3^, Rachel Greenup, MD, MPH^4^, Scott T. Hollenbeck, MD^5^, Lily R. Mundy, MD^6^
 
 ^1^Division of Plastic, Maxillofacial, and Oral Surgery, Department of Surgery, Duke University, Durham, NC
 
@@ -89,21 +29,26 @@ funding: "This work was supported by the Kenan Grant."
 
 ^5^Department of Plastic and Maxillofacial Surgery, University of Virginia, Charlottesville, VA
 
-^6^Department of Plastic and Reconstructive Surgery, Johns Hopkins University, Baltimore, MD -->
+^6^Department of Plastic and Reconstructive Surgery, Johns Hopkins University, Baltimore, MD
 
-<!-- ## Corresponding Author
+## Corresponding Author:
 
 Lily R. Mundy, MD
-
 Department of Plastic and Reconstructive Surgery
-
 Johns Hopkins University School of Medicine
-
 601 N. Caroline St
-
 Baltimore, MD, 21287
+Email: LMundy3@jhu.edu
 
-Email: LMundy3\@jhu.edu -->
+**Financial Disclosure Statement:** Kenan Grant
+
+**Short Running Head:** Breast Reconstruction Decisions Among Black Women
+
+**Words:** 3,679
+
+:::
+
+\newpage
 
 <!-- **Financial Disclosure Statement:** This work was supported by the Kenan Grant.
 
@@ -166,6 +111,22 @@ Coding was performed using NVivo 14 software (QSR International, Melbourne, Aust
 # RESULTS
 
 Eleven women consented to the semi-structured interview, with 55% (n=6) undergoing breast reconstruction. Participant characteristics are shown in Table 1.
+
+| Characteristic | Overall (n=11) |
+|----------------|----------------|
+| **Age, years** | |
+| Median (IQR) | 45 (10) |
+| **Cancer Stage** | |
+| Stage 0 | 3 (27.3%) |
+| Stage I | 3 (27.3%) |
+| Stage II | 2 (18.2%) |
+| Stage III | 2 (18.2%) |
+| Stage IV | 1 (9.1%) |
+| **Reconstruction Status** | |
+| Underwent reconstruction | 6 (55%) |
+| Declined reconstruction | 5 (45%) |
+
+Table 1. Participant Demographics and Clinical Characteristics (n=11)
 
 Participants discussed multiple factors influencing their reconstruction decisions, including appearance, feeling normal, number of surgeries, recovery time, and risk of complications. Specific complications included multiple surgeries for adjustments, uneven breasts, infection, and pain. Participants who had undergone reconstruction noted that pain and recovery time were greater than expected, which would have influenced their decisions had they known beforehand. Emotional reactions to breast cancer, mastectomy, and anxiety related to reconstruction were also important considerations.
 
@@ -233,11 +194,24 @@ Four participants (n=4) expressed concerns about trusting the medical system and
 
 Participants described how this mistrust affected their willingness to undergo elective procedures and their level of comfort with surgical recommendations. Some participants sought second opinions or delayed decisions while they built trust with their surgical team.
 
+| Theme | Representative Quote | Summary |
+|-------|---------------------|---------|
+| **Patient-Provider Communication** | "The doctor and his team were very detailed with what was going to happen, and I appreciated that." | Clear, empathetic communication improved trust and informed decision-making. |
+| | "I just wanted to see what the results look like on Black women... But the pictures I saw were all White women." | Participants noted the need for culturally representative visual aids. |
+| **Financial Toxicity** | "If I get another surgery and have a job, I could lose the job. I can't afford to be out that long again." | Financial constraints, including lost income and recovery costs, were significant barriers. |
+| | "Even though insurance covered most of it, I still ended up spending so much on parking, childcare, and other things I didn't think about." | Hidden costs influenced decisions. |
+| **Medical Mistrust** | "I didn't know if I could trust what they were saying about the surgery." | Historical and personal experiences of mistrust affected participants' willingness to undergo surgery. |
+| | "Hearing from someone who looks like me and went through this would have made a big difference." | Testimonials from other Black women could alleviate mistrust. |
+
+Table 2. Key Themes and Representative Quotes from Participant Interviews
+
 \newpage
 
 # DISCUSSION
 
 This qualitative study identifies critical factors influencing breast reconstruction decisions among Black women. Our findings reveal a complex interplay of personal, interpersonal, and systemic elements that shape the reconstruction experience, consistent with systematic reviews documenting multilevel barriers to care.[@vangsness2024] Three key themes emerged with significant clinical implications: (1) patient-provider communication, (2) financial barriers, and (3) medical mistrust. These results provide a foundation for developing targeted interventions to improve breast reconstruction care and outcomes in this underserved population.
+
+![Socioecological framework mapping study themes to levels of influence. The three main themes identified in this study—patient-provider communication, financial toxicity, and medical mistrust—operate across multiple levels of the ecological framework. Personal-level factors include individual preferences and clinical eligibility; interpersonal-level factors encompass patient-provider communication dynamics; and systemic-level factors include financial barriers and medical mistrust rooted in historical and institutional contexts. Adapted from McLeroy et al. (1988).](figures/socioecological_model.png){#fig-socioecological}
 
 ## Patient-Provider Communication and Decision-Making
 
