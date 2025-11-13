@@ -1,210 +1,170 @@
 # Supervisor Feedback Summary
-## From: Mundy_Moreen edits.pdf
+## Source: Mundy_Moreen edits (scanned manuscript with handwritten notes)
 ## Date: 2024-10-12
 
 ---
 
-## Page 1 - Title/Author Page
+## Page 1 – Title Page
 
-### Feedback:
-- **"no bing - verbiage too long"** - The corresponding author section appears to have too much text
-- **"no then next is felt unknown to the information officer the"** - Something about the information flow/organization
-- **"return grant"** - Mention grant funding in financial disclosure
+- Supervisor noted there are **no figures** supporting the manuscript and requested that one be added.
+- Results section flagged as **too long**; needs to be shortened and crafted to **tell a cohesive narrative**.
+- **Financial disclosure** must explicitly mention the **Susan G. Komen grant** (note: “Komen grant” written next to the disclosure line).
 
-### Action Items:
-1. Simplify and shorten the corresponding author section
-2. Review organizational flow of title page elements
-3. Add grant information to financial disclosure statement
-
----
-
-## Page 2 - Abstract
-
-### Feedback:
-- No specific handwritten comments visible on the abstract itself
-- Abstract appears acceptable as written
-
-### Action Items:
-- None at this time
+**Action Items**
+1. Plan at least one figure (conceptual model or visual summary) that complements the themes.
+2. Streamline the Results section to foreground analysis rather than lengthy quotations.
+3. Update the financial disclosure statement with the Susan G. Komen funding information.
 
 ---
 
-## Page 3 - Introduction
+## Page 2 – Abstract
 
-### Feedback:
-- **Top margin: "Why not have by discussion?" / "let's have awareness back"**
-  - Unclear what discussion is being referenced; clarify the flow
+- No handwritten comments; supervisor did not flag issues.
 
-- **Left margin bracket around first paragraph about reconstruction benefits**
-  - Needs interpretation/reorganization
-
-- **Right margin: "Why are you saying this" + comments about outcomes**
-  - The logic or purpose of certain statements needs clarification
-  - "more people get worse outcomes" - query about this claim
-
-### Action Items:
-1. Clarify the discussion reference and improve flow
-2. Review the first paragraph for logical organization
-3. Justify or revise statements about outcomes with clearer citations
-4. Ensure the "why" of each paragraph is evident
+**Action Items**
+- None recorded, but keep changes aligned with later revisions (e.g., if results themes shift, mirror those in the abstract).
 
 ---
 
-## Page 4 - Methods
+## Page 3 – Introduction
 
-### Feedback:
-- **Top: "I did on study how this? so"** - Clarity needed on study design
-- **"no on site here"** - Remove or clarify something about location
-- **Notes about sampling:** "through sample thinking RATERS" / "plastic has" / "involved" / "try surgery pt"
-  - Sampling strategy needs clearer explanation
-  - Clarify participant selection criteria
+- Margin note: **“Citing in discussion better – be more summary here.”** Introduction currently reads like discussion; should be more concise and defer detailed literature comparisons to later sections.
+- Comment along left margin: **“a little too in depth.”** First paragraph needs tightening and clearer focus on the problem statement.
+- Right-margin arrows pointing to middle paragraphs indicate they feel **redundant with the Discussion** and should emphasize the gap rather than extended literature exposition.
 
-- **Left margin: "called ask they could"** - Phone call/contact method needs clarification
-- **Bottom: "progress"** - Mark progress or add statement about progression
-
-### Action Items:
-1. Clarify study design and methodology description
-2. Remove unclear "on site" references
-3. Rewrite sampling and recruitment section for clarity
-4. Clarify how participants were contacted (phone vs other methods)
-5. Add information about study progression/timeline if needed
+**Action Items**
+1. Condense the opening paragraphs; sharpen focus on disparity magnitude and explicitly state the knowledge gap earlier.
+2. Move interpretive or comparative sentences to the Discussion.
+3. Verify every claim about outcomes or complications has an appropriate, up-to-date citation.
 
 ---
 
-## Page 5 - Methods/Results Transition
+## Page 4 – Methods (Sampling & Data Collection)
 
-### Feedback:
-- **Top right: "I then acknowledged person to this person?"**
-  - Clarify acknowledgment or reflexivity statement
+- Note near opening sentence: **“Did our other study show this? If so cite the paper.”** Prior internal review must be referenced.
+- Left-margin note **“prospective?”** requests clarity on whether the study is prospective, retrospective, or cross-sectional.
+- Comment questioning **“purposive?”** indicates need to justify or rename the sampling strategy.
+- Margin note next to recruitment details asks for more clarity on **how patients were contacted** and suggests the present description is confusing.
+- Line through **“with a $100 gift card”** with note **“(I don’t think you need to give amount)”**; remove or justify exact incentive amount.
 
-- **Circle around "AMS"** in the text about qualitative researchers
-  - Spell out abbreviation or clarify who AMS is
-
-### Action Items:
-1. Review and clarify author acknowledgments in methods
-2. Define "AMS" abbreviation (appears to be author initials - Ahlam Ameera?)
-3. Ensure all co-authors are properly identified when mentioned
-
----
-
-## Page 6 - Results (Participant Quotes)
-
-### Feedback:
-- **Bottom note: "Quote better too long - not organized - to get enough"**
-  - Participant quotes are too lengthy
-  - Quotes need better organization
-  - Need to extract the essential points more concisely
-
-### Action Items:
-1. **PRIORITY:** Shorten all long participant quotes
-2. Reorganize quote presentation for clarity
-3. Use ellipses [...] to remove non-essential parts while maintaining meaning
-4. Consider breaking very long quotes into smaller segments with interpretation
+**Action Items**
+1. Provide citation to the prior internal review/mixed-methods project.
+2. State the study design plainly (e.g., qualitative descriptive study nested within a larger mixed-methods project).
+3. Clarify participant identification, screening, and contact procedures; ensure terminology (purposive vs. convenience) matches actual approach.
+4. Remove or rephrase the exact compensation amount per institutional guidance.
 
 ---
 
-## Page 7 - Patient-Provider Communication Section
+## Page 5 – Methods (Analysis & Rigor)
 
-### Feedback:
-- **Right margin: "One participant but too one-sided don't help"**
-  - The presentation is too heavily weighted toward one participant's perspective
-  - Need more balanced representation across participants
+- Margin question: **“Is there an acknowledgement to this person?”** refers to community partners/qualitative coders; ensure proper acknowledgment or authorship.
+- Initials **“AMS”** circled—must be fully identified on first mention and/or explained.
+- Supervisor underlined reflexivity statements; ensure they are explicit about researcher positionality and how bias was mitigated.
 
-### Action Items:
-1. Add quotes or perspectives from multiple participants
-2. Balance the representation - don't rely too heavily on single voices
-3. Show diversity of experiences within each theme
-
----
-
-## Page 8 - Results Continued
-
-### Feedback:
-- **Left margin notes: "can own option this time" / "MS" / "This required"**
-  - Some clarification needed about options discussed
-  - Check "MS" reference (medical term or author?)
-  - Something is "required" - needs to be clearer
-
-### Action Items:
-1. Clarify discussion of reconstruction options
-2. Define any unclear abbreviations
-3. Make required elements more explicit
+**Action Items**
+1. Spell out names or provide descriptors for all coders (avoid unexplained initials).
+2. Confirm acknowledgments include community advisors and qualitative analysts not listed as co-authors.
+3. Expand reflexivity description if needed to demonstrate rigor.
 
 ---
 
-## Page 9 - Visual Aids Section
+## Page 6 – Results (Opening Theme & Quotes)
 
-### Feedback:
-- **Top: "with"** circled or noted
-  - Minor word choice or grammar issue
+- Comment: **“Long/broke up… not organized by topic.”** Quotes are overly long and not clearly linked to analytic narrative.
+- Emphasis on reorganizing quotes by theme and trimming to the most illustrative excerpts.
 
-### Action Items:
-1. Review word usage around the circled "with"
-2. Check for grammatical clarity
-
----
-
-## Page 10 - Discussion
-
-### Feedback:
-- **Top: "don't use PM date too much synthymyosian"** (possibly "synchronization")
-  - Reduce the use of "PM" (likely participant/post-mastectomy) dates
-  - Too much focus on timeline synchronization
-
-- **Bottom: "feels talk needs concluding sentence or two"**
-  - Add concluding sentences to discussion sections
-
-- **"Share wrote & query what had as I slept back on make her concise"**
-  - Make the discussion more concise overall
-  - Review what has been written and tighten up
-
-### Action Items:
-1. **PRIORITY:** Remove excessive date references (PM dates)
-2. Add 1-2 concluding sentences to each discussion subsection
-3. Make discussion more concise throughout
-4. Review for repetition and tighten arguments
+**Action Items**
+1. Break long quote blocks into shorter, theme-focused excerpts with analytic lead-in sentences.
+2. Use ellipses or partial quotations to maintain participant voice while keeping text concise.
 
 ---
 
-## Page 11 - Discussion Continued
+## Page 7 – Patient-Provider Communication Theme
 
-### Feedback:
-- **Bottom: "consider moving this paragraph here"**
-  - Reorganize discussion paragraphs for better flow
-  - Some content may be better placed elsewhere
+- Margin note: **“One participant has to anecdotal [all].”** Section leans heavily on a single participant; needs broader representation.
 
-### Action Items:
-1. Review overall discussion organization
-2. Consider moving paragraphs to improve logical flow
-3. Ensure discussion builds progressively toward conclusions
+**Action Items**
+1. Incorporate quotes from multiple participants within each theme.
+2. Add interpretive synthesis after quotes to show how the theme spans the cohort.
 
 ---
 
-## Overall Priority Actions
+## Page 8 – Options & Preparation Theme
 
-### HIGH PRIORITY:
-1. **Shorten participant quotes** - too long throughout Results
-2. **Add concluding sentences** to Discussion subsections
-3. **Reduce PM/date references** in Discussion
-4. **Balance participant representation** - not too one-sided
-5. **Clarify Methods** - sampling, recruitment, analysis
+- Notes flag repeated or redundant quotes (e.g., “don’t put #1”, “Is this quote repeated?”).
+- Direction to **avoid duplicate quotations** and ensure each excerpt advances the analysis.
 
-### MEDIUM PRIORITY:
-6. Simplify title page/corresponding author section
-7. Reorganize Introduction for clearer logic/flow
-8. Define all abbreviations (AMS, MS, etc.)
-9. Reorganize Discussion paragraphs for better flow
-
-### LOW PRIORITY:
-10. Minor grammatical fixes ("with" and similar)
-11. Add grant information to financial disclosure
-12. General conciseness improvements throughout
+**Action Items**
+1. Replace repetitive quotes with new material or analytical commentary.
+2. Clarify distinctions between subthemes (e.g., eligibility constraints vs. information gaps).
 
 ---
 
-## Next Steps
+## Page 9 – Visual Aids & Financial Toxicity
 
-1. Create a revised manuscript addressing high-priority items first
-2. Set up proper citation management for references
-3. Generate publication-ready PDF with Quarto once feedback is incorporated
-4. Review with supervisor before submission
+- Word **“white”** circled—adjust capitalization to **“White”** in line with style guide.
+- General expectation to tighten prose and ensure each paragraph links back to the theme heading.
+
+**Action Items**
+1. Audit capitalization for racial descriptors throughout the manuscript.
+2. Strengthen transitions tying quotes to summary sentences within each subsection.
+
+---
+
+## Page 10 – Discussion
+
+- Note next to detailed dates: **“don’t give full dates, too much privacy concern.”** Replace exact dates with broader timeframes.
+- Comment: **“Feels like needs concluding sentence or two.”** Add summarizing statements to close subsections.
+- Arrow to early discussion paragraph: **“there weren’t quotes about this, were there? How do we make this conclusion?”** Ensure discussion claims are clearly supported by data presented.
+- Bottom margin: **“Consider moving into paragraphs here.”** Suggests reorganizing content for flow and concision.
+
+**Action Items**
+1. Remove specific calendar dates or convert to relative timing (e.g., “spring 2022”).
+2. Add concise concluding statements in each theme within the Discussion.
+3. Explicitly link discussion points to presented findings or cite supporting literature when data are absent.
+4. Reorder paragraphs to build a logical argument (personal → interpersonal → systemic) and reduce redundancy.
+
+---
+
+## Page 11 – Discussion (continued)
+
+- No new marginalia, but note continuation of prior comments about organization and tightening.
+
+**Action Items**
+- Apply the structural, support, and concision edits outlined for Page 10 across the remainder of the Discussion.
+
+---
+
+## Table 1 – Demographic Composition
+
+- Bracketed note: **“lump categories to stage 0-4.”** Combine detailed TNM stage lines into broader stage groupings for clarity.
+
+**Action Items**
+1. Collapse breast cancer stage entries into Stage 0, I, II, III, IV as applicable.
+2. Review table footnotes to ensure definitions remain accurate after regrouping.
+
+---
+
+## Table 2 – Themes
+
+- No handwritten edits; ensure updates in Results remain aligned with table summaries.
+
+---
+
+## Consolidated Priority List
+
+**High Priority**
+1. Shorten and reorganize the Results section to foreground analytic narrative with concise, thematic quotations.
+2. Restructure the Introduction to emphasize the knowledge gap, moving comparative literature to the Discussion.
+3. Clarify Methods (study design, recruitment, sampling terminology, prior study citation) and remove sensitive compensation details.
+4. Revise Discussion paragraphs to tie claims to data, eliminate unnecessary dates, and add clear concluding statements.
+
+**Medium Priority**
+5. Add at least one figure that visually supports the narrative (e.g., socioecological model of barriers/facilitators).
+6. Ensure multiple participant voices illustrate each theme; remove duplicated quotes.
+7. Update Table 1 staging categories and audit capitalization (Black/White).
+8. Expand reflexivity/acknowledgment details and spell out initials on first use.
+
+**Low Priority**
+9. Review manuscript for stylistic consistency (tense, transitions, paragraph flow) once substantive edits are complete.
+10. Mirror any thematic adjustments within the Abstract, Conclusion, and Table 2 summaries.

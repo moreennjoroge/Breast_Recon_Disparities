@@ -1,0 +1,255 @@
+/* ============================================================================
+   CUSTOM CSS FOR CLEANING UP AUTHOR AFFILIATIONS
+   ============================================================================
+
+   This file provides multiple approaches to reduce repetitive affiliations
+   on the manuscript title page. Choose the approach that works best for you.
+
+   To use: Add this to your _quarto.yml under the html format:
+
+   format:
+     html:
+       css: custom-affiliations.css
+============================================================================ */
+
+
+/* ============================================================================
+   OPTION 1: COMPACT INLINE LAYOUT (RECOMMENDED)
+   - Authors and affiliations flow horizontally
+   - Reduces vertical space
+   - Affiliations appear in smaller, lighter text after each author
+============================================================================ */
+
+/* Make the author section more compact */
+.quarto-title-meta-author {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.quarto-title-meta-author .quarto-title-meta-heading {
+  font-weight: 700;
+  font-size: 0.9em;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 0.5em;
+}
+
+/* Display authors inline with compact spacing */
+.quarto-title-meta-author .quarto-title-meta-contents {
+  display: inline;
+  margin-right: 0.3em;
+}
+
+.quarto-title-meta-author .author {
+  font-weight: 600;
+  color: #333;
+}
+
+.quarto-title-meta-author .author::after {
+  content: " ";
+}
+
+/* Make affiliations smaller and less prominent */
+.quarto-title-meta-author .affiliation {
+  font-size: 0.75em;
+  color: #666;
+  font-style: italic;
+}
+
+.quarto-title-meta-author .affiliation::after {
+  content: "; ";
+  font-style: normal;
+}
+
+.quarto-title-meta-author .affiliation:last-of-type::after {
+  content: ".";
+}
+
+
+/* ============================================================================
+   OPTION 2: HIDE DUPLICATE AFFILIATIONS
+   - Only show the first instance of each affiliation
+   - Cleaner but requires manual numbering in the QMD file
+============================================================================ */
+
+/* Uncomment this section to use Option 2 instead:
+
+.quarto-title-meta-author .affiliation {
+  font-size: 0.8em;
+  color: #555;
+  margin-left: 0.5em;
+}
+
+.quarto-title-meta-author .affiliation:has(+ .quarto-title-meta-contents .author) {
+  margin-bottom: 0.5em;
+}
+
+/* Hide affiliations that match the previous one (requires custom attributes) */
+/*
+.quarto-title-meta-author .affiliation[data-duplicate="true"] {
+  display: none;
+}
+*/
+
+
+/* ============================================================================
+   OPTION 3: SUPERSCRIPT NUMBERING STYLE (JOURNAL-LIKE)
+   - Affiliations grouped at bottom
+   - Authors get superscript numbers
+   - Most professional looking but requires JS or manual numbering
+============================================================================ */
+
+/* Uncomment this section to use Option 3 instead:
+
+.quarto-title-meta-author {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 1em;
+  margin-bottom: 1em;
+}
+
+.quarto-title-meta-author .author {
+  display: inline;
+  margin-right: 1em;
+}
+
+.quarto-title-meta-author .author::after {
+  content: ", ";
+}
+
+.quarto-title-meta-author .author:last-of-type::after {
+  content: "";
+}
+
+/* Create affiliation numbers section
+.quarto-title-meta-author .affiliation {
+  display: block;
+  font-size: 0.85em;
+  color: #555;
+  margin-top: 1em;
+  margin-left: 1.5em;
+  text-indent: -1.5em;
+}
+
+.quarto-title-meta-author .affiliation::before {
+  content: "• ";
+  font-weight: bold;
+}
+*/
+
+
+/* ============================================================================
+   OPTION 4: TWO-COLUMN LAYOUT
+   - Authors on left, affiliations on right
+   - Good for papers with many authors
+============================================================================ */
+
+/* Uncomment this section to use Option 4 instead:
+
+.quarto-title-meta-author {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 1em;
+  align-items: start;
+}
+
+.quarto-title-meta-author .quarto-title-meta-heading:first-of-type {
+  grid-column: 1;
+}
+
+.quarto-title-meta-author .quarto-title-meta-heading:last-of-type {
+  grid-column: 2;
+}
+
+.quarto-title-meta-author .author {
+  grid-column: 1;
+}
+
+.quarto-title-meta-author .affiliation {
+  grid-column: 2;
+  font-size: 0.9em;
+  color: #555;
+}
+*/
+
+
+/* ============================================================================
+   GENERAL IMPROVEMENTS (Applied to all options)
+============================================================================ */
+
+/* Reduce overall spacing in title banner */
+.quarto-title-banner {
+  padding: 2em 0 1.5em 0;
+}
+
+/* Make title more prominent */
+.quarto-title .title {
+  font-size: 1.8em;
+  line-height: 1.3;
+  margin-bottom: 0.8em;
+}
+
+/* Improve abstract styling */
+.abstract {
+  background-color: #f8f9fa;
+  border-left: 4px solid #0066cc;
+  padding: 1.5em;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+}
+
+.abstract .block-title {
+  font-weight: 700;
+  font-size: 1.1em;
+  margin-bottom: 0.8em;
+  color: #0066cc;
+}
+
+.abstract p {
+  margin-bottom: 0.8em;
+  line-height: 1.6;
+}
+
+/* Improve keywords styling */
+.keywords {
+  margin-top: 1em;
+  padding: 1em;
+  background-color: #f0f0f0;
+  border-radius: 4px;
+}
+
+.keywords .block-title {
+  font-weight: 600;
+  font-size: 0.9em;
+  text-transform: uppercase;
+  margin-bottom: 0.5em;
+  color: #333;
+}
+
+.keywords p {
+  font-size: 0.9em;
+  color: #555;
+  font-style: italic;
+}
+
+/* Remove email icons if they look cluttered */
+.quarto-title-author-email {
+  font-size: 0.8em;
+  opacity: 0.7;
+  margin-left: 0.3em;
+}
+
+.quarto-title-author-email:hover {
+  opacity: 1;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .quarto-title .title {
+    font-size: 1.4em;
+  }
+
+  .quarto-title-meta-author {
+    font-size: 0.9em;
+  }
+}

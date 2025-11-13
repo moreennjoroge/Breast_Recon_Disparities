@@ -14,6 +14,8 @@ format:
     number-sections: false
     highlight-style: github
     theme: cosmo
+    template-partials:
+      - title-block.html
   nature-pdf:
     journal: 
       cite-style: sn-vancouver
