@@ -1,12 +1,19 @@
 {
   "hooks": {
-    "SessionStart": {
-      "command": "bash",
-      "args": [
-        "-c",
-        "echo \"CURRENT_YEAR=$(date +%Y)\" > \"$CLAUDE_ENV_FILE\" && echo \"CURRENT_DATE=$(date +%Y-%m-%d)\" >> \"$CLAUDE_ENV_FILE\" && echo \"PROJECT_ROOT=$PWD\" >> \"$CLAUDE_ENV_FILE\" && echo \"✅ Environment variables injected: CURRENT_YEAR=$(date +%Y), CURRENT_DATE=$(date +%Y-%m-%d)\""
-      ],
-      "timeout": 5000
-    }
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash",
+            "args": [
+              "-c",
+              "echo \"CURRENT_YEAR=$(date +%Y)\" > \"$CLAUDE_ENV_FILE\" && echo \"CURRENT_DATE=$(date +%Y-%m-%d)\" >> \"$CLAUDE_ENV_FILE\" && echo \"PROJECT_ROOT=$PWD\" >> \"$CLAUDE_ENV_FILE\" && echo \"✅ Environment variables injected: CURRENT_YEAR=$(date +%Y), CURRENT_DATE=$(date +%Y-%m-%d)\""
+            ],
+            "timeout": 5000
+          }
+        ]
+      }
+    ]
   }
 }
